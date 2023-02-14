@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saminda Fernando</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
+<img src="[https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png](https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)">
 
-div {
-<img src="https://miro.medium.com/max/1360/0*yVqaoB4N64ZrBXWo.gif" alt="my" class="right">
-      text-align: right;
-    }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam1ndafernando&label=Profile%20views&color=0e75b6&style=flat" alt="sam1ndafernando" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam1ndafernando" alt="sam1ndafernando" /></a> </p>
 
 - 🌱 I’m currently learning **IJSE - Institute of Software Engineering**
 
@@ -18,12 +18,12 @@ div {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saminda fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saminda fernando" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saminda fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saminda fernando" height="30" width="40" /></a>
-<a href="https://fb.com/saminda fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saminda fernando" height="30" width="40" /></a>
-<a href="https://instagram.com/sam1nda.fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam1nda.fernando" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/saminda fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saminda fernando" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/uthpala2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uthpala2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saminda-fernando-59461a19b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saminda-fernando-59461a19b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shttps://stackoverflow.com/users/18105340/saminda-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shttps://stackoverflow.com/users/18105340/saminda-fernando" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100084561370218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100084561370218" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sam1nda.fernando/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sam1nda.fernando/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@samindafernando2953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@samindafernando2953" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/uthpala2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/uthpala2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
