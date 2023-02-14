@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saminda Fernando</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
-<img src="https://miro.medium.com/max/1360/0*yVqaoB4N64ZrBXWo.gif">
+
 div {
-      text-align: center;
+<img src="https://miro.medium.com/max/1360/0*yVqaoB4N64ZrBXWo.gif" alt="my" class="right">
+      text-align: right;
     }
 
 - 🌱 I’m currently learning **IJSE - Institute of Software Engineering**
