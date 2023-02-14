@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **uthpala2001@gmail.com**
 
-- ⚡ Fun fact **I think i am a funny person**
+- ⚡ Fun fact **I Think I am a Funny Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
