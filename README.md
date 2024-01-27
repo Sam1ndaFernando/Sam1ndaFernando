@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sam1ndaFernando](https://github.com/Sam1ndaFernando)
 
-- 💬 Ask me about **Java, MySQL, Web Development**
+- 💬 Ask me about **Java, Web Development**
 
 - 📫 How to reach me **uthpala2001@gmail.com**
 
