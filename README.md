@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam1ndafernando" alt="sam1ndafernando" /></a> </p>
 
 
-- 🌱 I’m currently learning **IJSE - Institute of Software Engineering**
+- 🌱 I’m currently learning **BSc (Hons) in Computer Science at IJSE - Institute of Software Engineering**
 
 - 💬 Ask me about   **Java, MySQL, Object-Oriented Programming (OOP) concepts, Software Architecture Design Patterns, Hibernate, Network programming & etc..**
 
