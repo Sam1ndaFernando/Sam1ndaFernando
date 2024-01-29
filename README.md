@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **IJSE - Institute of Software Engineering**
 
-- 💬 Ask me about **Java, MySQL, Object-Oriented Programming (OOP) concepts, Software Architecture Design Patterns, Hibernate, Network programming & etc..**
+- 💬 Ask me about   **Java, MySQL, Object-Oriented Programming (OOP) concepts, Software Architecture Design Patterns, Hibernate, Network programming & etc..**
 
 - 📫 How to reach me **uthpala2001@gmail.com**
 
-- ⚡ Fun fact **I think I am a funny person as well as a responsible person.**
+- ⚡ Fun fact  **I think I am a funny person as well as a responsible person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
