@@ -7,19 +7,17 @@
 
 <br/>
 <h2 align="center">Under construction of this page !!!</h2>
-<h1 align="center">About Me</h1>
-
 <br/>
-
+<br/>
+<br/>
+<h1 align="center">About Me</h1>
+<br/>
 <div align="center">
- 
- 🔭 I’m currently working on **codePro**
- 
- 🌱 I’m currently learning **BSc (Hons) in Computer Science**
+    🔭 I’m currently working on <strong>CodePro.</strong><br/>
+    🌱 I’m currently pursuing a <strong>BSc (Hons) in Computer Science.</strong><br/>
+    ⚡ Fun fact: <strong>I enjoy playing games and listening to music.</strong>
+</div>
 
-⚡ Fun fact **Playing games and listening to music**
-
- </div>
  
 <br/>
 <br/>
