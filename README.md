@@ -7,6 +7,20 @@
 
 <br/>
 <h2 align="center">Under construction of this page !!!</h2>
+<h1 align="center">About Me</h1>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **codePro**
+ 
+ 🌱 I’m currently learning **BSc (Hons) in Computer Science**
+
+⚡ Fun fact **Playing games and listening to music**
+
+ </div>
+ 
 <br/>
 <br/>
 <br/>
