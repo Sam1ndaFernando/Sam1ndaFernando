@@ -14,11 +14,9 @@
 </div>
 <br/>
 <br/>
-
-
+<br/>
 
 <h2 align="center">Languages and Tools</h2>
-<br/>
 
 <!-- Separate section for Languages -->
 <h4 align="center">Languages</h4>
@@ -69,7 +67,9 @@
     </a>
 </p>
 
-<br/><br/><br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
