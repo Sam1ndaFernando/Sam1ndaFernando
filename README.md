@@ -15,7 +15,7 @@
 <br/>
 
 <h3 align="center" style="font-family: 'Sans-serif'; font-weight: Bold;">
-   "Crafting digital experiences with code and creativity"
+   " Crafting digital experiences with code and creativity "
 </h3>
 
 <br/>
