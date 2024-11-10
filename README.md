@@ -77,7 +77,7 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
     </a>
-     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -86,7 +86,14 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="40" height="40"/>
     </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
+    </a>
 </p>
+
 
 <br/>
 <br/>
