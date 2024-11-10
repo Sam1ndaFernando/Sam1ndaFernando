@@ -26,7 +26,7 @@
 <!-- Separate section for Languages -->
 <h4 align="center">Languages</h4>
 <p align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/>
     </a>
     &nbsp;
@@ -45,8 +45,16 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
     </a>
-  
+    &nbsp;
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
+    </a>
+    &nbsp;
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
 </p>
+
 
 <!-- Separate section for Tools -->
 <h4 align="center">Tools</h4>
@@ -68,6 +76,9 @@
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
+    </a>
+     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
