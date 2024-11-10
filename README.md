@@ -77,6 +77,7 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
     </a>
+    <br>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="figma" width="40" height="40"/>
     </a>
@@ -92,7 +93,14 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
     </a>
+    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg" alt="maven" width="40" height="40"/>
+    </a>
+    <a href="https://gradle.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" alt="gradle" width="40" height="40"/>
+    </a>
 </p>
+
 
 
 <br/>
