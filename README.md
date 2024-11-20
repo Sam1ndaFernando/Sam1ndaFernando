@@ -53,6 +53,15 @@
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
     </a>
+     &nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
+    </a>
+    &nbsp;
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="vite" width="40" height="40"/>
+    </a>
+    
 </p>
 
 
