@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
     🔭 I’m currently working on web applications</strong><br/>
-    📫 Reach me: <a href="www.linkedin.com/in/saminda-fernando-59461a19b" target="_blank">LinkedIn</a><br/>
+    📫 Reach me: <a href="https://www.linkedin.com/in/saminda-fernando-59461a19b/" target="_blank">LinkedIn</a><br/>
     🌱 I’m currently pursuing a <strong>BSc (Hons) in Computer Science.</strong><br/>
     ⚡ Fun fact: <strong>I love combining frontend development skills with UI/UX design and innovative ideas.</strong>
 </div>
